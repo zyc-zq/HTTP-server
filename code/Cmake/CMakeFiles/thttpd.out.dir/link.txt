@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/thttpd.out.dir/main.cpp.o CMakeFiles/thttpd.out.dir/http.cpp.o CMakeFiles/thttpd.out.dir/custom_handle.cpp.o  -o thttpd.out -rdynamic -lpthread 
